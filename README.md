@@ -6,7 +6,7 @@ An image classifier to detect and classify cases of Diabetic Retinopathy using F
 
 We use [FastAI](https://www.fast.ai/) for our deep learning library. Run the following code to install FastAI in colab.
 ```bash
-!curl -s https://course.fast.ai/setup/colab | bash
+curl -s https://course.fast.ai/setup/colab | bash
 ```
 You can download the dataset from [here](https://www.kaggle.com/c/aptos2019-blindness-detection/data).
 
