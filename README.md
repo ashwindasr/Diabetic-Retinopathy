@@ -1,6 +1,6 @@
 # Diabetic-Retinopathy
 
-An image classifier to detect and classify cases of Diabetic Retinopathy using FastAI. This project was done as part of the Kaggle Competition [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection) challenge.
+An image classifier to detect and classify cases of [Diabetic Retinopathy](https://en.wikipedia.org/wiki/Diabetic_retinopathy) using FastAI. This project was done as part of the Kaggle Competition [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection) challenge.
 
 #### Setting up
 
