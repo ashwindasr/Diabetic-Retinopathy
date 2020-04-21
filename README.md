@@ -4,7 +4,7 @@ An image classifier to detect and classify cases of Diabetic Retinopathy using F
 
 #### Setting up
 
-We use [FastAI](https://www.fast.ai/) for our deep learning library. Run the following code to install FastAI in colab.
+We use [FastAI](https://www.fast.ai/) for our deep learning library. Run the following code to install FastAI in [Google Colab](https://colab.research.google.com/).
 ```bash
 curl -s https://course.fast.ai/setup/colab | bash
 ```
