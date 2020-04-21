@@ -12,7 +12,7 @@ You can download the dataset from [here](https://www.kaggle.com/c/aptos2019-blin
 
 Check out this [notebook](https://github.com/ashwindasr/Diabetic-Retinopathy/blob/master/diabetic-retinopathy-demo.ipynb) on how to train the model.
 
-To see the classifier in action, see this [notebook](https://github.com/ashwindasr/Diabetic-Retinopathy/blob/master/diabetic-retinopathy-demo.ipynb)
+To see the classifier in action, see this [notebook](https://github.com/ashwindasr/Diabetic-Retinopathy/blob/master/diabetic-retinopathy-demo.ipynb).
 
 
 
