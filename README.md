@@ -10,7 +10,7 @@ curl -s https://course.fast.ai/setup/colab | bash
 ```
 You can download the dataset from [here](https://www.kaggle.com/c/aptos2019-blindness-detection/data).
 
-Check out this [notebook](https://github.com/ashwindasr/Diabetic-Retinopathy/blob/master/diabetic-retinopathy-demo.ipynb) on how to train the model.
+Check out this [notebook](https://github.com/ashwindasr/Diabetic-Retinopathy/blob/master/diabetic_retinopathy.ipynb) on how to train the model.
 
 To see the classifier in action, see this [notebook](https://github.com/ashwindasr/Diabetic-Retinopathy/blob/master/diabetic-retinopathy-demo.ipynb).
 
